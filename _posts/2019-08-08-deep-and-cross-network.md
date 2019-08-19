@@ -5,7 +5,7 @@ subtitle: 'DCN-阅读笔记'
 author: "Xindi"
 header-style: text
 tags:
-  - PaperNotes
+  - Paper Notes
 ---
 
 # Deep & Cross Network for Ad Click Predictions
