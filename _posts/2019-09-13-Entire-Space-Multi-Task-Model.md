@@ -64,3 +64,7 @@ https://tianchi.aliyun.com/dataset/dataDetail?dataId=408&userId=1
 
 数据空间：
 $$S=\{(x_i,y_i \rightarrow z_i)\} |^N_{i=1}$$
+
+
+## 后续优化
+[电商多目标优化小结](https://zhuanlan.zhihu.com/p/76413089)
